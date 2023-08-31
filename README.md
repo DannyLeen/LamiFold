@@ -1,5 +1,6 @@
 # LamiFold
-![Lamifold](https://github.com/DannyLeen/LamiFold/assets/25233399/03d568c0-752b-4b5b-8fae-fe24b4056a00)
+![Lamifold](https://github.com/DannyLeen/LamiFold/assets/25233399/54328fef-125e-43c5-b0bd-29ccf5b1a5cf)
+
 
 
 
