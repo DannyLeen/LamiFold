@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "f49651a3-d1d1-4f2c-922e-6d6b171e9f82",
+    "author": "Danny Leen",
+    "description": "Generate objects using laminated mechanisms",
+    "version": "0.2.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
